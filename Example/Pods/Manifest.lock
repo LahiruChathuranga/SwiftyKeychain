@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyKeychain (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyKeychain (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyKeychain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyKeychain: a89ff5bd51f821e929e5be09b1d50030270673cf
+
+PODFILE CHECKSUM: 2a03984e67e6072f966be53cb9547bd444abba0a
+
+COCOAPODS: 1.15.2
